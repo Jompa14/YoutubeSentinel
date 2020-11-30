@@ -1,10 +1,11 @@
 # YoutubeSentinel
 
-Em 2019 veio a público a informação de que o Youtube estava sendo usado por pedófilos para encontrar vídeos de crianças. 
-O problema pode ser conferido em maiores detalhes nesta [notícia](https://mashable.com/article/youtube-wakeup-child-exploitation-explained/).
+Em 2019 veio a público a informação de que o Youtube estava sendo usado por pedófilos que encontravam na plataforma vídeos de crianças. 
+Para mais detalhes confira esta [notícia](https://mashable.com/article/youtube-wakeup-child-exploitation-explained/).
 
-Este projeto tem como objetivo encontrar estes vídeos no Youtube com o intuito de denunciá-los.
-Para isso serão necessárias 3 Robôs:
+Este projeto tem como objetivo encontrar estes vídeos (muitos ainda estão no ar), com o intuito de denunciá-los.
+A ideia é que através da denúncia massiva destes vídeos, o Youtube os remova de sua plataforma.
+Para isso serão necessários 3 Robôs:
 ### **WebScrapping**
 + Web Scrapping é uma técnica para fazer um robô navegar por páginas web.
 + No nosso caso, o Robô navega entre os vídeos do Youtube.
